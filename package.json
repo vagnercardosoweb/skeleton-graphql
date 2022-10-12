@@ -15,7 +15,7 @@
     "start": "node ./dist/server.js"
   },
   "dependencies": {
-    "apollo-server": "^2.14.2",
+    "apollo-server": "^2.25.4",
     "graphql": "^14.5.8"
   },
   "devDependencies": {
